@@ -25,10 +25,10 @@
             "route": "/games/tabledraganddrop"
         },
         "5": {
-            "name": "Word",
+            "name": "Window Sequencing Letters",
             "url": "/icons/word.png",
             "description": "This is a description of the game",
-            "route": "/games/word"
+            "route": "/games/wsletters"
         },
         "6": {
             "name": "Word Search",
