@@ -25,8 +25,8 @@
             "route": "/games/tabledraganddrop"
         },
         "5": {
-            "name": "Window Sequencing Letters",
-            "url": "/icons/word.png",
+            "name": "Window Sequencing",
+            "url": "/icons/windowsequencing.png",
             "description": "This is a description of the game",
             "route": "/games/wsletters"
         },
@@ -49,36 +49,30 @@
             "route": "/games/dragandmatch"
         },
         "9": {
-            "name": "Window Sequencing",
-            "url": "/icons/WindowSequencing.jpg",
-            "description": "This is a description of the game",
-            "route": "/games/windowsequencing"
-        },
-        "10": {
             "name": "Animal Farm",
             "url": "/icons/AnimalFarm.jpg",
             "description": "This is a description of the game",
             "route": "/games/animalfarm"
         },
-        "11":{
+        "10":{
             "name": "Animal Matching",
             "url": "/icons/AnimalMatching.jpg",
             "description": "This is a description of the game",
             "route": "/games/animalmatching"
         },
-        "12":{
+        "11":{
             "name": "Joining Shapes",
             "url": "/icons/JoiningShapes.jpg",
             "description": "This is a description of the game",
             "route": "/games/joiningshapes"
         },
-        "13":{
+        "12":{
             "name": "Sentence Verification",
             "url": "/icons/SentenceVerification.jpg",
             "description": "This is a description of the game",
             "route": "/games/sentenceverification"
         },
-        "14":{
+        "13":{
             "name": "Shadow Matching",
             "url": "/icons/ShadowMatching.jpg",
             "description": "This is a description of the game",
